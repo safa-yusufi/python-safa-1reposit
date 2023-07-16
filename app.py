@@ -13,5 +13,5 @@ if 6 > 8 :
 if 9 > 3 :
     print('nine is greather than three')      
 
-if 6 > 5 :
+if 7 > 5 :
     print('true') 
