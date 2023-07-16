@@ -1,4 +1,4 @@
-# number of hours in a year
+# Number of hours in a year
 def multiply() :
     oneDayHours=24
     oneYearsDays=365
